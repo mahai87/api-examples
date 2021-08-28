@@ -1,0 +1,19 @@
+#country-detail{
+    position: fixed;
+    background-color: orchid;
+    padding: 10px;
+    border: 2px solid royalblue;
+
+}
+#countries {
+   
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+}
+.country {
+    border: 2px solid tomato;
+    margin: 10px;
+    padding: 20px;
+    border-radius: 15px;
+
+}
